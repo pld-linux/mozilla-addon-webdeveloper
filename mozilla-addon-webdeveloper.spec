@@ -1,6 +1,6 @@
 %define		_extension webdeveloper
 Summary:	Mozilla Firefox Web Developer Extension
-Summary(pl):	Rozszerzenie Web Developer dla przegl±darki Mozilla Firefox
+Summary(pl.UTF-8):   Rozszerzenie Web Developer dla przeglÄ…darki Mozilla Firefox
 Name:		mozilla-addon-%{_extension}
 Version:	0.9.4
 Release:	0.19
@@ -21,13 +21,13 @@ An essential extension for any web developer/designer as it provides a
 raft of incredibly useful features all under one roof. You will wonder
 how you ever managed without it!
 
-%description -l pl
-To rozszerzenie dodaje menu i toolbar z ró¿nymi narzêdziami do
+%description -l pl.UTF-8
+To rozszerzenie dodaje menu i toolbar z rÃ³Å¼nymi narzÄ™dziami do
 tworzenia stron WWW.
 
-Jest to istotne rozszerzenie dla twórców stron WWW, jako ¿e udostêpnia
-po³±czony zestaw bardzo przydatnych mo¿liwo¶ci, bez których niektórzy
-nie wyobra¿aj± sobie pracy.
+Jest to istotne rozszerzenie dla twÃ³rcÃ³w stron WWW, jako Å¼e udostÄ™pnia
+poÅ‚Ä…czony zestaw bardzo przydatnych moÅ¼liwoÅ›ci, bez ktÃ³rych niektÃ³rzy
+nie wyobraÅ¼ajÄ… sobie pracy.
 
 %prep
 %setup -q -c
