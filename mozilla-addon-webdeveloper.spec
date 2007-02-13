@@ -1,6 +1,6 @@
 %define		_extension webdeveloper
 Summary:	Mozilla Firefox Web Developer Extension
-Summary(pl.UTF-8):   Rozszerzenie Web Developer dla przeglądarki Mozilla Firefox
+Summary(pl.UTF-8):	Rozszerzenie Web Developer dla przeglądarki Mozilla Firefox
 Name:		mozilla-addon-%{_extension}
 Version:	0.9.4
 Release:	0.19
